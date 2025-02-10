@@ -1,11 +1,3 @@
-# CMPT353 Final Project
-#
-# Name: Vishavjit Singh Harika
-# Student ID: 301416581
-#
-# Name: Balraj Singh Gill
-# Student ID: 301436060
-
 import sys
 import pandas as pd
 import numpy as np
